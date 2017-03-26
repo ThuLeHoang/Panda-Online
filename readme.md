@@ -27,13 +27,14 @@ Website Panda Online
 Công cụ sử dụng
 ===============
 * HTML/CSS
-* JavaScript
-* Jquery
+* JavaScript/Jquery
 * Bootstrap
 * AngularJS
-* Node.js
-* Karma
-* Jasmine
+* Karma/Jasmine
+
+Khung ứng dụng lựa chọn
+=======================
+**AngularJS**
 
 Use case
 ========
