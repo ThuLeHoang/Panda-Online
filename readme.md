@@ -32,10 +32,6 @@ Công cụ sử dụng
 * AngularJS
 * Karma/Jasmine
 
-Khung ứng dụng lựa chọn
-=======================
-**AngularJS**
-
 Use case
 ========
 <img src="http://i.imgur.com/4Yunw3b.jpg">
@@ -43,3 +39,12 @@ Use case
 <img src="http://i.imgur.com/Vuj6ddr.jpg">
 <img src="http://i.imgur.com/5ipdfH1.jpg">
 <img src="http://i.imgur.com/MBQ076q.jpg">
+
+Link kịch bản các Use case
+==========================
+* **Các Features:** https://github.com/ChuThom610/Panda-Online/tree/master/features
+* **Các Uni-test:** https://github.com/ChuThom610/Panda-Online/tree/master/unit-testing
+
+Khung ứng dụng lựa chọn
+=======================
+**AngularJS**
