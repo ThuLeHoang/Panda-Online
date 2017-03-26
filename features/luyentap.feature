@@ -1,6 +1,6 @@
 Feature: Do excercises
     As a student
-    I try to enter "Luyen tap"
+    I want to enter "Luyen tap"
     In order to do excercises and submit
 
 
