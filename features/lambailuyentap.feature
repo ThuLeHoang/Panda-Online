@@ -1,10 +1,10 @@
 Feature: Submit
-    As a child who do excercises
+    As a child who do exercises
     I want to submit after every question
     In order to know result as soon as I have done
     
     Background:
-	Given I am entered in a excercise
+	Given I am entered in a exercise
 	And I see 1 mushroom and demand "Đếm số hình xuất hiện và điền vào ô bến dưới"
 	And I see a blank box to fill my answer
 
