@@ -30,6 +30,7 @@ Công cụ sử dụng
 * JavaScript/Jquery
 * Bootstrap
 * AngularJS
+* Nodejs
 * Karma/Jasmine
 
 Use case
