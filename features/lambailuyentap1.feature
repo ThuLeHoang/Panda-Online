@@ -5,17 +5,17 @@ Feature: Submit
     
     Background:
 	Given I am entered in a excercise
-	And I see 1 mushroom
-	And I see a question and a blank box to fill my answer
+	And I see 1 mushroom and demand "Đếm số hình xuất hiện và điền vào ô bến dưới"
+	And I see a textb to fill my answer
 
-    Scenario: True question
+    Scenario: True answer
 	When I fill the blank box with "1"
-	And I submit
+	And I click on "Nộp bài" button
 	Then I should see notification "Chính xác!"
 	And I can do next question
 
-    Scenario: False question
+    Scenario: False answer
 	When I fill the blank box with "2"
-	And I submit
+	And I click on "Nộp bài" button
 	Then I should see notification "Rất tiếc. Bạn làm sai rồi Làm lại nhé!"
 	And I must redo this question
