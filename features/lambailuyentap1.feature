@@ -4,7 +4,7 @@ Feature: Submit
     In order to know result as soon as I have done
     
     Background:
-	Given: I am entered in a excercise
+	Given I am entered in a excercise
 	And I see 1 mushroom
 	And I see a question and a blank box to fill my answer
 
