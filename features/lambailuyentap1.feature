@@ -6,7 +6,7 @@ Feature: Submit
     Background:
 	Given I am entered in a excercise
 	And I see 1 mushroom and demand "Đếm số hình xuất hiện và điền vào ô bến dưới"
-	And I see a textb to fill my answer
+	And I see a blank box to fill my answer
 
     Scenario: True answer
 	When I fill the blank box with "1"
