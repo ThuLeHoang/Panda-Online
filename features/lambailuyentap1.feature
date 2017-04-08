@@ -8,13 +8,13 @@ Feature: Submit
 	And I see 1 mushroom
 	And I see a question and a blank box to fill my answer
 
-    Scenario:
+    Scenario: True question
 	When I fill the blank box with "1"
 	And I submit
 	Then I should see notification "Chính xác!"
 	And I can do next question
 
-    Scenario:
+    Scenario: False question
 	When I fill the blank box with "2"
 	And I submit
 	Then I should see notification "Rất tiếc. Bạn làm sai rồi Làm lại nhé!"
