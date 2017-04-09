@@ -8,5 +8,5 @@ Feature: Watch life skill items
         Then I should see "Sọ dừa" story
         
     Scenario: Play "Quà tặng cuộc sống" videos
-        When I click on video "Gánh xôi của bà"
-        Then I should play that video
+        When I click on "Gánh xôi của bà" video 
+        Then I should play "Gánh xôi của bà" video
