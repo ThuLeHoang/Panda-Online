@@ -15,4 +15,4 @@ Feature: Watch life skill items
         Then I should see that video "Gánh xôi của bà" appear
         And I can click on video "Gánh xôi của bà" to play it
         When I click on "Gánh xôi của bà" button the second time
-        Then I should see that video "Gánh xôi của bà" is hidden
+        Then I should see that video "Gánh xôi của bà" is hided
