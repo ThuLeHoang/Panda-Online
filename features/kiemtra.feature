@@ -7,11 +7,12 @@ Feature: Do the test
         Given I clicked on "Chương 1" test
         And I see request "Tick vào ô trả lời đúng"
         And there are choices:
-            |3+5=8 |
-            |4+5=13|
-            |4+3=6 |
-            |9-2=6 |
-            |8-7=2 |
+            |Answer | |True/False   |
+            |3+5=8  | |True         |
+            |4+5=13 | |False        |
+            |4+3=6  | |False        |
+            |9-2=6  | |False        |
+            |8-7=2  | |False        |
      
     Scenario: I am true
         When I tick on "3+5=8"
