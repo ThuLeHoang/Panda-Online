@@ -35,11 +35,10 @@ Công cụ sử dụng
 
 Use case
 ========
-<img src="http://i.imgur.com/qafZ34P.jpg">
+<img src="http://i.imgur.com/m4gOnMH.jpg">
 <img src="http://i.imgur.com/Vuj6ddr.jpg">
 <img src="http://i.imgur.com/lY0vEso.jpg">
 <img src="http://i.imgur.com/SkQ9xGp.jpg">
-<img src="http://i.imgur.com/Li4r1Ap.jpg">
 
 Link kịch bản các Use case
 ==========================
