@@ -22,7 +22,7 @@ Website Panda Online
 * Luyện tập: Ôn tập lại kiến thức trên lớp môn Toán
 * Kiểm tra: Kiểm tra theo từng chương học và đưa ra các đề thi với môn Toán.
 * Kỹ năng sống: Đưa ra các video, bài học để rèn luyện kỹ năng cần thiết cho trẻ.
-* Phụ huynh: Hướng dẫn sử dụng Panda Online để học cùng trẻ, đưa ra những lời khuyên cho phụ huynh trong việc dạy, chăm sóc trẻ.
+
 
 Công cụ sử dụng
 ===============
@@ -47,4 +47,4 @@ Link kịch bản các Use case
 
 Khung ứng dụng lựa chọn
 =======================
-**AngularJS**
+**Angular 2**
